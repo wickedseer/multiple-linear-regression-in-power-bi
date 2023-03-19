@@ -1,6 +1,8 @@
 
 # Multiple Linear Regression in Power BI
 
+![Screenshot 2023-03-20 000235](https://user-images.githubusercontent.com/84715134/226199384-1cef99f2-6ba2-41f4-84fa-329f7d9c73d9.jpg)
+
 Python Script -
 
 import pandas as pd <br>
